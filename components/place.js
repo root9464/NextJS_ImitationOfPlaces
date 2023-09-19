@@ -14,7 +14,7 @@ const Place = ({props}) => {
     
 
     return(
-        <siction>
+        <section>
 
             <div 
             className="block" 
@@ -22,7 +22,7 @@ const Place = ({props}) => {
             onClick={handleActive} 
             style={{backgroundColor: active == true ? '#70ec0bf3' : '#fff'}}> {props} </div>
            
-        </siction>
+        </section>
         
             
     )
