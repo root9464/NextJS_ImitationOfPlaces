@@ -14,7 +14,6 @@ export default function Home() {
           <p className="pe">Выбранное</p>
           <p className="pe">Занятое</p>
         </div>
-        
       </div>
       
     </section>

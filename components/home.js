@@ -21,7 +21,7 @@ const Home = () => {
 //     // Обновляем состояние массива мест
 //     setSeats(newSeats);
 //   };
- 
+  
   return (
     
       <div className='section'>

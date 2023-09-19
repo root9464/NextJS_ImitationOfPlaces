@@ -117,7 +117,7 @@ main{
   justify-content: center;
   grid-template-rows: repeat(2, 1fr);
 }
-.section{
+.section{ 
   position: relative;
   align-items: center;
   justify-content: center;
@@ -130,7 +130,6 @@ main{
   padding: 10px;
   width: 98%;
   height: 100%;
- 
 }
 .block{
   display: flex;

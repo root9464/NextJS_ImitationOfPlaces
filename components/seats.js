@@ -20,7 +20,7 @@ const Seats = ({props}) => {
           }
           default: {
             break;
-          }
+          } 
         }
       };
     return(
